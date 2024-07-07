@@ -3,7 +3,7 @@
 ## Tech-stack expertise:
 
 <p align="center">
-  <a href="https://fardinkai.me">
+  <a href="github.com/RianaAzad">
     <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,expressjs,mongodb,firebase,figma" />
   </a>
 </p>
