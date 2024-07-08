@@ -22,8 +22,8 @@
         <a href="https://github.com/RianaAzad">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianaAzad&custom_title=Riana's%20Used%20Languages&langs_count=6&card_width=400&theme=algolia&hide_border=true&layout=compact" alt="Most used languages" /> 
                 <br> -->
-  <img src="https://streak-stats.demolab.com?user=RianaAzad&theme=vision-friendly-dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RianaAzad&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RianaAzad&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RianaAzad&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
   </a>
 </div> <br>
 <br/> 
