@@ -24,8 +24,12 @@
                 <br> -->
   <img src="https://streak-stats.demolab.com?user=RianaAzad&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RianaAzad&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
+
   </a>
 </div> <br>
+
+![RianaAzad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RianaAzad&custom_title=Activity%20Graph&days=15&hide_border=true&theme=github-compact)
+
 <br/> 
 
 ---
