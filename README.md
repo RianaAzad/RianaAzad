@@ -28,7 +28,7 @@
   </a>
 </div> <br>
 
-![RianaAzad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RianaAzad&custom_title=Activity%20Graph&days=15&hide_border=true&theme=github-compact)
+![RianaAzad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RianaAzad&custom_title=Activity%20Graph&days=20&hide_border=true&theme=github-compact)
 
 <br/> 
 
