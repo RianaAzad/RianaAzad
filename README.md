@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="github.com/RianaAzad">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,expressjs,mongodb,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,expressjs,mongodb,firebase,docker,figma" />
   </a>
 </p>
 
