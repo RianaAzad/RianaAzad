@@ -7,7 +7,7 @@
   </div>
   
 ### Welcome!
-*I'm an enthusiastic aspiring Full-stack AI engineer with a strong passion for machine learning, deep learning, and AI research. I'm always eager to learn and contribute to exciting AI projects.*
+*I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learning, and Full-stack development. I specialize in building AI-powered applications and web platforms, with a strong focus on technologies like Python, JavaScript, React.js, Node.js, and MongoDB. I’m also experienced in working with cloud platforms such as Firebase and DigitalOcean.*
 ## Stack expertise:
 
 <p align="center">
